@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Primary {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub updated 1
 		boolean flag = false;
 		int num;
     	System.out.print("Enter Number: ");

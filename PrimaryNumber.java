@@ -18,7 +18,7 @@ public class Primary {
         if(!flag)
         	System.out.println("Prime Number");
         else
-        	System.out.println("Not Prime");
+        	System.out.println("Not Prime"); //hey
         scan.close();
 
 	}
